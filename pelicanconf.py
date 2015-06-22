@@ -5,9 +5,9 @@ from __future__ import unicode_literals
 AUTHOR = u'Toulibre'
 SITENAME = u'Capitole du Libre - le blog'
 SITEURL = 'http://localhost:8000'
-SITEDESCRIPTION = u'L\'événement autour de Logiciel Libre à Toulouse'
+SITEDESCRIPTION = u'L\'événement du Logiciel Libre à Toulouse'
 THEME = 'cdltheme-blog'
-CSS_FILE = 'styles.css'
+CSS_FILE = 'styles.min.css'
 
 OUTPUT_PATH = 'output/'
 

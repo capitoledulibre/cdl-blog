@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block indextitle %}{% endblock %}
+{% block title %}{{ SITENAME }} - {{ page.title }}{% endblock title %}
+{% block description %}{{ page.title }} : {{ page.summary|striptags|truncate(60) }}{% endblock description %}
+
+{% block class %}{{ page.slug }}{% endblock class %}
+{% block content %}
+<div class='page {{ page.slug }}'>
+<h1>{{ page.title }}</h1>
+
+    <div>
+{% if page.calendar %}
+    {% include "inc-ical.html" %}
+{% endif %}
+
+{{ page.content }}
+
+{% if page.video_url %}
+    {% include "inc-video.html" %}
+{% endif %}
+
+    </div>
+        
+</div>
+{% endblock %}
