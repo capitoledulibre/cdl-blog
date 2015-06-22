@@ -1,3 +1,8 @@
 output*
 *.pid
 *.pyc
+pelican-plugins*
+lib
+include
+local
+
