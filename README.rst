@@ -21,24 +21,14 @@ Installation
 
 Installer Pelican dans un virtualenv comme indiqué dans `la documentation de Pelican <http://docs.getpelican.com/en/3.6.0/install.html>`_
 
-Installer les dépendances nécessaires::
-
-    pip install -r requirements.txt
-
-Cloner le repository
---------------------
-
-::
+Cloner le dépôt et installer les dépendances nécessaires::
 
     git clone https://github.com/toulibre/cdl-blog.git
-
-Lier le thème dans système de fichiers
---------------------------------------
-
-::
-
     cd cdl-blog
-    pelican-themes -s cdltheme-blog
+    pip install -r requirements.txt
+    wget https://github.com/getpelican/pelican-plugins/archive/master.zip
+    unzip master.zip
+    rm master.zip
 
 Utilisation
 =============
