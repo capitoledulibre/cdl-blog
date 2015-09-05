@@ -9,12 +9,11 @@ SITEDESCRIPTION = u'L\'événement du Logiciel Libre à Toulouse'
 THEME = 'cdltheme-blog'
 CSS_FILE = 'styles.min.css'
 
-OUTPUT_PATH = 'output/'
+PATH = 'src'
 
-PLUGIN_PATHS = ["./pelican-plugins-master"]
+PLUGIN_PATHS = ["~/.pelican/pelican-plugins"]
 PLUGINS = ['html_rst_directive']
 
-PATH = 'src'
 
 TIMEZONE = 'Europe/Paris'
 

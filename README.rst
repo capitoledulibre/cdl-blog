@@ -14,7 +14,7 @@ Prérequis
 
 ::
 
-    sudo apt-get install curl python python-virtualenv make
+    sudo apt-get install curl python python-setuptools python-virtualenv build-essentials
 
 Installation
 ------------
@@ -26,9 +26,10 @@ Cloner le dépôt et installer les dépendances nécessaires::
     git clone https://github.com/toulibre/cdl-blog.git
     cd cdl-blog
     pip install -r requirements.txt
-    wget https://github.com/getpelican/pelican-plugins/archive/master.zip
-    unzip master.zip
-    rm master.zip
+
+Installer les plugins
+
+    git clone --recursive https://github.com/getpelican/pelican-plugins ~/.pelican/pelican-plugins
 
 Utilisation
 =============
