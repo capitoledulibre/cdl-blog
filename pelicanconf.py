@@ -44,6 +44,11 @@ LINKS =  (
     ('Ubuntu-fr', 'http://www.ubuntu-fr.org/'),
          )
 
+# CDL infos
+CDL_DATE = u'19-20 novembre 2016'
+CDL_YEAR = u"2016"
+CDL_TAG = u'#cdl%s' % CDL_YEAR
+
 # Social widget
 SOCIAL = (
           ('Identica', 'identica', 'http://identi.ca/toulibreorg'),
