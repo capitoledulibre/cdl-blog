@@ -48,6 +48,7 @@ LINKS =  (
 CDL_DATE = u'19-20 novembre 2016'
 CDL_YEAR = u"2016"
 CDL_TAG = u'#cdl%s' % CDL_YEAR
+CDL_URL_BASE = 'https://%s.capitoledulibre.org/' % CDL_YEAR
 
 # Social widget
 SOCIAL = (
