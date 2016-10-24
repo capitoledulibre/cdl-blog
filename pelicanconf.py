@@ -31,6 +31,14 @@ ARTICLE_LANG_SAVE_AS = '{date:%Y}/{date:%m}-{date:%d}-{slug}-{lang}.html'
 # static paths will be copied under the same name
 STATIC_PATHS = ["photos",]
 
+# Menus
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+MENUITEMS = (
+    ('Accueil', CDL_URL_BASE),
+    ('Programme', '%sprogramme.html' % CDL_URL_BASE),
+)
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
