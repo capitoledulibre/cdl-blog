@@ -30,6 +30,7 @@ Cloner le dépôt et installer les dépendances nécessaires::
 Installer les plugins
 
     git clone --recursive https://github.com/getpelican/pelican-plugins ~/.pelican/pelican-plugins
+    ln -s ~/.pelican/pelican-plugins pelican-plugins
 
 Utilisation
 =============
@@ -50,6 +51,10 @@ Générer le site à l'aide du script de développement :
     make devserver
 
 Puis visiter la page http://localhost:8000/ pour visualiser le site.
+
+Pour arrêter le serveur :::
+
+    make stopserver
 
 Mettre en ligne le site
 -------------------------
