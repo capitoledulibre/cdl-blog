@@ -1,4 +1,4 @@
-Title: Le programme 2016 est en ligne !
+Title: Le programme du Capitole du Libre 2016
 Date: 2016-10-23
 Category: conférences
 Tags: programme
