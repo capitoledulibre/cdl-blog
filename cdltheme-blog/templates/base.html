@@ -4,9 +4,9 @@
         {% block head %}
         <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" type="text/css" />
+        <link rel="stylesheet" href="/theme/css/{{ CSS_FILE }}" type="text/css" />
         <meta name="description" content="{% block description %}{{ SITEDESCRIPTION }}{% endblock description %}" lang="fr" xml:lang="fr" />
-		      <link href="{{ SITEURL }}/theme/images/favicon.ico" rel="shortcut icon">
+		      <link href="/theme/images/favicon.ico" rel="shortcut icon">
         {% endblock head %}
 </head>
 
@@ -38,7 +38,7 @@
                 {% endfor %}
                 {% if DISPLAY_PAGES_ON_MENU %}
                   {% for p in MENUITEMS %}
-                  <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+                  <li{% if p == page %} class="active"{% endif %}><a href="/{{ p.url }}">{{ p.title }}</a></li>
                   {% endfor %}
                 {% endif %}
                 </ul>
@@ -78,7 +78,7 @@
                 </div>
                 <div class="col-md-4">
                   <a class="btn btn-lg btn-cta" href="{{ CDL_URL_BASE }}/programme.html">
-                    <img src="{{ SITEURL }}/photos/RML8_Occitanie-320.png" alt="8ème rencontres des Monnaies libres"/>
+                    <img src="/photos/RML8_Occitanie-320.png" alt="8ème rencontres des Monnaies libres"/>
                   </a>
                 </div>
             </div>
@@ -92,7 +92,7 @@
             </section>
             <section id="sondage">
                 <h2>Vous y étiez ?</h2>
-                <p>Répondez au <a class='btn btn-info' href="{{ SITEURL }}/sondage" target="_blank" title="Donnez votre avis !" alt="questionnaire">questionnaire en ligne</a></p>
+                <p>Répondez au <a class='btn btn-info' href="/sondage" target="_blank" title="Donnez votre avis !" alt="questionnaire">questionnaire en ligne</a></p>
 -->
             <!-- <section id="communiquer" class="span3">
 
@@ -150,14 +150,14 @@
         <address id="about" class="vcard pull-left">
             Pour tout renseignement : <a class="url org" href="mailto:contact@toulibre.org">contactez <span class="org">Toulibre</span></a>
         </address>
-         - <a href="{{ SITEURL }}/mentions-legales-et-credits.html">Mentions légales</a>
+         - <a href="/mentions-legales-et-credits.html">Mentions légales</a>
         <p class="pull-right"><em>Proudly powered by <a href="http://docs.notmyidea.org/alexis/pelican/">pelican</a>,
         and obviously <a href="http://python.org">python</a>!</em></p>
       </div>
     </footer><!-- /#contentinfo -->
 
 
-    <script type="text/javascript" src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
-    <script type="text/javascript" src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/theme/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/theme/js/bootstrap.min.js"></script>
 </body>
 </html>
