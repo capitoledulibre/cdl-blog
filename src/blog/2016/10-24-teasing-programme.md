@@ -1,5 +1,5 @@
 Title: Samedi 19 et Dimanche 20 novembre c'est le Capitole du Libre !
-Date: 26/10/2016
+Date: 24/10/2016
 
 L’association Toulibre organise les **samedi 19 et dimanche 20 novembre** 2016 [le Capitole du
 Libre](https://2016.capitoledulibre.org/), un événement consacré aux Logiciels Libres, orienté à la fois vers le grand public et le public spécialisé.
