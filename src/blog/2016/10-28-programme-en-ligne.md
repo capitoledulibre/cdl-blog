@@ -6,6 +6,7 @@ Summary:
 Author: Toulibre
 Status: draft
 
+(thématiques nouvelles dont les communs)
 
 Cette année encore, l'ENSEEIHT de Toulouse devient à l'occasion du
 dernier week-end de novembre un lieu d'échanges et de présentations

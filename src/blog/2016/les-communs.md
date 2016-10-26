@@ -12,15 +12,23 @@ Pourtant cela va plus loin : les “communs” désignent l’activité des **co
 
 Vous aurez l'occasion d'en saurez plus lors du Capitole du Libre puisqu'une thématique leur est dédiée. Après une **Introduction à la notion de "communs"** (sam 19/11 – 11h30) où vous aurez l'occasion de découvrir quelques communs toulousains, *Simon Sarazin* fera le lien entre les Communs et le logiciel libre (sam 19/11 – 14h).
 
+Bien des exemples seront développés dans d'autres thématiques, tels que l'association **Zeste de Savoir** (sam 19/11 – 15h30), une association qui propose des tutoriels et promeut le partage de la connaissance, ou bien **Khaganat, un MMORPG 100% libre, mais pas que !** (dim 20/11 14h), puisque toute une communauté s'active pour réaliser et pérenniser un jeu vidéo libre.
+
 ### Rémunérer la contribution
 
 La question de la rémunération se pose souvent lorsqu'il s'agit de contribuer à un logiciel libre, d'en *prendre soin*. Au Capitole du Libre des pistes seront évoquées. Les **Licences à réciprocité** présentées par *Lionel Maurel* de SavoirsCom1 (19/11 – 15h) sont une piste intéressante permettant une gestion plus fine des droits que les Creative Commons par exemple. Enfin le Capitole du Libre accueille cette année les **rencontres des monnaies libres**, du moins la partie grand public puisqu'elles débutent dès le 17 mai au Quai des Savoirs.
 
+Il sera question également de **Liberapay** (dim 20/11 10h30), un outil libre qui permet de contribuer à des projets ou rémunérer des commoners à l'aide de dons récurrents.
+
 ### Entre culture libre et Communs, l'édition libre
 
-(Table ronde édition libre)
+Samedi 19/11 à 16h30 aura lieu une **Table ronde sur l'édition libre**, qui couvre toute la chaîne du livre, de l'auteur au libraire, en passant par l'éditeur. Cette table ronde sera l'occasion pour le public de prendre la parole sur ce sujet.
 
+### Gouvernance des communautés
 
+Côté gouvernance seront abordées les **organisations démocratiques, décentralisées et distribuées de façon autonomes** (dim 20 nov, 11h30), basées sur la **blockchain**.
+
+En parallèle, les commoners toulousains se réuniront en **assemblée des communs** (dim 20/11 10h30), comme c'est déjà le cas à Rennes ou à Lille pour travailler sur la mise en valeur des communs, par la documentation et la cartographie, l'élaboration d'une charte, etc.
 
 ## Retrouvez les Communs à la Médiathèque le 18 novembre
 
