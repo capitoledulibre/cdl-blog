@@ -3,7 +3,17 @@ Date: 2016-10-28
 Status: draft
 Summary: La technique sera également à l'honneur au Capitole du Libre les 19 et 20 novembre prochains à Toulouse.
 
-Peu de technologies permettent à une personne, parfois au cours d'une simple session de travail, parfois sans même y songer, de passer d'un rôle d'utilisateur à celui de développeur. Il s'agit d'une conséquence des principes qui fondent le mouvement du logiciel libre. Et l'intérêt de rencontres telles que le Cap Il ne fait guère de doute que les conférences techniques rassembleront aussi bien des techniciens avertis que des novices partageant des passions communes.
+Peu de technologies permettent à une personne, parfois au cours d'une simple session de travail, parfois sans même y songer, de passer d'un rôle d'utilisateur à celui de développeur. Il s'agit d'une conséquence des principes qui fondent le mouvement du logiciel libre. Et l'intérêt de rencontres telles que le Capitole du Libre est entre autres de rassembler autour de sujets communs aussi bien des techniciens avertis que des novices.
+
+## Retour aux fondamentaux: langages, bibliothèques et outils, sécurité
+
+Comme les langues naturelles, les langages informatiques apportent chacun des façons originales et parfois uniques d'exprimer des idées.
+
+Du côté des bibliothèques et des outils
+
+## Langages: Go et Rust
+
+Le langage Rust est un nouveau langage généraliste performant qui possède des caractéristiques techniques très originales. L'occasion d'en apprendre plus!
 
 ## Thématique technique : le programme
 
