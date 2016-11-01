@@ -5,7 +5,7 @@ Summary: Les sujets techniques transverses et généraux au Capitole du Libre, l
 
 Peu de technologies permettent à une personne, parfois au cours d'une simple session de travail, parfois sans même y songer, de passer d'un rôle d'utilisateur à celui de développeur. Il s'agit d'une conséquence des principes qui fondent le mouvement du logiciel libre. Et l'intérêt de rencontres telles que le Capitole du Libre est entre autres de rassembler autour de sujets communs aussi bien des techniciens avertis que des novices.
 
-Si ce billet vous présente des conférences techniques générales, il est bon de savoir qu'en parallèle des sujets tout aussi "techniques" mais dédiés au web, à l'embarqué ou à Qt vous seront proposés.
+Si ce billet vous présente des conférences techniques générales, il est bon de savoir qu'en parallèle des sujets tout aussi techniques mais dédiés au web, à l'embarqué, aux DevOps ou à Qt vous seront proposés.
 
 ## Retour aux fondamentaux: langages, bibliothèques et outils, sécurité
 
