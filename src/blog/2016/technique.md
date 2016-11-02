@@ -39,7 +39,7 @@ Pour ne pas perdre le nord, nous nous concentrerons sur la sécurité, TLS avec 
 * **Outils pour améliorer votre Rust** – *Martin Carton* - 20 novembre 2016 14:00 – 15:00
 * **La crypto pour les devs : petit état des lieux des outils d'aujourd'hui et des techniques de demain** – *m4dz* - 20 novembre 2016 15:00 – 16:00
 
-## Thématique technique : les deux ateliers
+## Thématique technique : les ateliers
 
 * **Initiation à Rust** – *Leo Testard* - 20 novembre 2016 14:00 – 16:00
 * **Bien réussir un merge avec Git** - *Alexandre Garnier* - 20 novembre 2016 10:30 – 12:30
