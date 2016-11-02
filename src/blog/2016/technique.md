@@ -29,17 +29,17 @@ Pour ne pas perdre le nord, nous nous concentrerons sur la sécurité, TLS avec 
 
 ## Thématique technique : le programme des conférences
 
-* **Introduction à Go** – *Sylvain Wallez* - 19 novembre 2016 11:30 – 12:30
-* **Le langage Rust** – *Axel Viala & Leo Testard* - 19 novembre 2016 14:00 – 15:00
-* **TLS : Des éléments base à "Let's Encrypt"** – *Frédéric Cabestre* - 19 novembre 2016 15:00 – 16:00
-* **Your Distro From Scratch** – *yledoare* - 19 novembre 2016 16:30 – 17:00
-* **Entrer dans les entrailles de Git, ou comment faire un commit sans faire du Git** – *Alexandre Garnier* - 19 novembre 2016 17:00 – 17:30
-* **Gamedev Framework, un framework en C++11 pour les jeux 2D** – *Julien Bernard* - 19 novembre 2016 17:30 – 18:30
-* **Les organisations démocratiques, décentralisées et distribuées de façon autonomes #blockchain** – *Alexandre DAVID* - 20 novembre 2016 11:30 – 12:30
-* **Outils pour améliorer votre Rust** – *Martin Carton* - 20 novembre 2016 14:00 – 15:00
-* **La crypto pour les devs : petit état des lieux des outils d'aujourd'hui et des techniques de demain** – *m4dz* - 20 novembre 2016 15:00 – 16:00
+* **Introduction à Go** – *Sylvain Wallez* - Samedi 19 novembre 2016 11:30 – 12:30
+* **Le langage Rust** – *Axel Viala & Leo Testard* - Samedi 19 novembre 2016 14:00 – 15:00
+* **TLS : Des éléments base à "Let's Encrypt"** – *Frédéric Cabestre* - Samedi 19 novembre 2016 15:00 – 16:00
+* **Your Distro From Scratch** – *yledoare* - Samedi 19 novembre 2016 16:30 – 17:00
+* **Entrer dans les entrailles de Git, ou comment faire un commit sans faire du Git** – *Alexandre Garnier* - Samedi 19 novembre 2016 17:00 – 17:30
+* **Gamedev Framework, un framework en C++11 pour les jeux 2D** – *Julien Bernard* - Samedi 19 novembre 2016 17:30 – 18:30
+* **Les organisations démocratiques, décentralisées et distribuées de façon autonomes #blockchain** – *Alexandre DAVID* - Dimanche 20 novembre 2016 11:30 – 12:30
+* **Outils pour améliorer votre Rust** – *Martin Carton* - Dimanche 20 novembre 2016 14:00 – 15:00
+* **La crypto pour les devs : petit état des lieux des outils d'aujourd'hui et des techniques de demain** – *m4dz* - Dimanche 20 novembre 2016 15:00 – 16:00
 
 ## Thématique technique : les ateliers
 
-* **Initiation à Rust** – *Leo Testard* - 20 novembre 2016 14:00 – 16:00
-* **Bien réussir un merge avec Git** - *Alexandre Garnier* - 20 novembre 2016 10:30 – 12:30
+* **Bien réussir un merge avec Git** - *Alexandre Garnier* - Dimanche 20 novembre 2016 10:30 – 12:30
+* **Initiation à Rust** – *Leo Testard* - Dimanche 20 novembre 2016 14:00 – 16:00
