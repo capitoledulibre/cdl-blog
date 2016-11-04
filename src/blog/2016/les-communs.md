@@ -16,13 +16,13 @@ Bien des exemples seront développés dans d'autres thématiques, tels que l'ass
 
 ### Rémunérer la contribution
 
-La question de la rémunération se pose souvent lorsqu'il s'agit de contribuer à un logiciel libre, d'en *prendre soin*. Au Capitole du Libre des pistes seront évoquées. Les **Licences à réciprocité** présentées par *Lionel Maurel* de SavoirsCom1 (19/11 – 15h) sont une piste intéressante permettant une gestion plus fine des droits que les Creative Commons par exemple. Enfin le Capitole du Libre accueille cette année les **rencontres des monnaies libres**, du moins la partie grand public puisqu'elles débutent dès le 17 mai au Quai des Savoirs.
+La question de la rémunération se pose souvent lorsqu'il s'agit de contribuer à un logiciel libre, d'en *prendre soin*. Au Capitole du Libre des pistes seront évoquées. Les **Licences à réciprocité** présentées par *Lionel Maurel* de SavoirsCom1 (19/11 – 15h) sont une piste intéressante permettant une gestion plus fine des droits que les Creative Commons par exemple.
 
-Il sera question également de **Liberapay** (dim 20/11 10h30), un outil libre qui permet de contribuer à des projets ou rémunérer des commoners à l'aide de dons récurrents.
+Il sera question également de **Liberapay** (dim 20/11 10h30), un outil libre qui permet de contribuer à des projets ou rémunérer des commoners à l'aide de dons récurrents. Enfin le Capitole du Libre accueille cette année les **rencontres des monnaies libres**, du moins la partie grand public puisqu'elles débutent dès le 17 mai au Quai des Savoirs. 
 
 ### Entre culture libre et Communs, l'édition libre
 
-Samedi 19/11 à 16h30 aura lieu une **Table ronde sur l'édition libre**, qui couvre toute la chaîne du livre, de l'auteur au libraire, en passant par l'éditeur. Cette table ronde sera l'occasion pour le public de prendre la parole sur ce sujet.
+**Samedi 19/11 à 16h30** aura lieu une **Table ronde sur l'édition libre**, qui couvre toute la chaîne du livre, de l'auteur au libraire, en passant par l'éditeur. Cette table ronde sera l'occasion pour le public de prendre la parole sur ce sujet.
 
 ### Gouvernance des communautés
 
