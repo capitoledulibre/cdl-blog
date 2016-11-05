@@ -23,11 +23,11 @@ On peut s'inscrire jusqu'au mercredi 16 novembre 2016. Cela donne un peu de temp
 
 ### Pour ceux qui n'ont pas de clef
 
-Le mardi 15 novembre à 18:30 au centre culturel Bellegarde aura lieu un atelier pour créer une clef et avec prise en main de gpg.
+Le mardi 15 novembre à 18:30 au centre culturel Bellegarde aura lieu un atelier pour créer une clef et prendre en main gpg.
 
 ## Avant de venir au Capitole du Libre
 
-Se connecter à [http://ksp.capitoledulibre.org/files] pour y télécharger le fichiers des participants et de leurs clefs.  Il faudra vérifier le fichier en utilisant les commandes XXX XXX et les noter dans ledit fichiers. Après on peut soit l'imprimer, soit venir avec sont portable et assez de temps de batterie (il faut compter 1 heure par 100 participants).
+Se connecter à [http://ksp.capitoledulibre.org/files] pour y télécharger le fichiers des participants et leurs clefs.  Il faudra vérifier le fichier en utilisant les commandes XXX XXX et les noter dans ledit fichiers. Après on peut soit l'imprimer, soit venir avec son portable et assez de temps de batterie (il faut compter 1 heure par 100 participants).
 
 ## Le jour même 
 
