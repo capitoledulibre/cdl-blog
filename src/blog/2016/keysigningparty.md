@@ -12,9 +12,11 @@ La méthode du fosdem permet de se débarasser des empreintes de clef individuel
 ## Inscription
 
 Après avoir créé une clef comme indiqué à [https://keyring.debian.org/creating-key.html], il suffit d'envoyer la clef comme ceci:
-	[ludo@Oulanl ~]$ gpg --keyserver ksp.capitoledulibre.org --send-key 6B17EA1E
-	gpg: sending key 6B17EA1E to hkp server ksp.capitoledulibre.org
-	[ludo@Oulanl ~]$
+```
+[ludo@Oulanl ~]$ gpg --keyserver ksp.capitoledulibre.org --send-key 6B17EA1E
+gpg: sending key 6B17EA1E to hkp server ksp.capitoledulibre.org
+[ludo@Oulanl ~]$
+```
 en prenant soin d'envoyer votre clef et pas la mienne (6B17EA1E).
 
 On peut s'inscrire Jusqu'au Mercredi 16 novembre 2016. Cela donne un peut de temps aux administrateurs pour générer les fichiers nécessaire à la KSP. 
