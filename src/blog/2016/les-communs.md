@@ -7,7 +7,7 @@ Peut-être évoque-t-elle d’abord pour vous les ressources naturelles comme la
 
 [![Les Communs]({filename}images/commun-portail.png)](http://lescommuns.org/)
 
-Pourtant cela va plus loin : les “communs” désignent l’activité des **communautés** qui s’organisent et se régulent pour protéger et faire fructifier des **ressources matérielles ou immatérielles**, en marge des régimes de propriété publique ou privée, selon des **règles de gouvernances** définies par elles-mêmes. Les travaux d’*Elinor Oström*, première femme à avoir obtenu le <del>Nobel d’économie</del> prix de la banque de Suède en hommage à Nobel en 2009, ont démontré que les “communs” pouvaient constituer une alternative crédible et durable aux dysfonctionnements actuels de nos économies et de nos démocraties.
+Pourtant cela va plus loin : les “communs” désignent l’activité des **communautés** qui s’organisent et se régulent pour protéger et faire fructifier des **ressources matérielles ou immatérielles**, en marge des régimes de propriété publique ou privée, selon des **règles de gouvernances** définies par elles-mêmes. Les travaux d’**[Elinor Ostrom](https://fr.wikipedia.org/wiki/Elinor_Ostrom)**, première femme à avoir obtenu le <del>Nobel d’économie</del> prix de la banque de Suède en hommage à Nobel en 2009, ont démontré que les “communs” pouvaient constituer une alternative crédible et durable aux dysfonctionnements actuels de nos économies et de nos démocraties.
 
 ## Le logiciel libre, un Commun ?
 
@@ -49,7 +49,7 @@ Si vous partez aux champignons pendant le weekend, ne manquez pas le **vendredi 
 
 ## Le programme en résumé
 
-### Thématique des Communs 
+### Thématique des Communs
 
 * **Introduction à la notion de "communs"** – *Bernard Brunet* – 19 novembre 2016 11:30 – 12:30
 * **Du logiciel libre aux communs** – *Simon Sarazin* – 19 novembre 2016 14:00 – 15:00
