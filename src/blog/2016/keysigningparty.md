@@ -12,20 +12,22 @@ La méthode du fosdem permet de se débarasser des empreintes de clef individuel
 ## Inscription
 
 Après avoir créé une clef comme indiqué à [https://keyring.debian.org/creating-key.html], il suffit d'envoyer la clef comme ceci:
-	[ludo@Oulanl ~]$ gpg --keyserver ksp.capitoledulibre.org --send-key 6B17EA1E
-	gpg: sending key 6B17EA1E to hkp server ksp.capitoledulibre.org
-	[ludo@Oulanl ~]$
+```
+[ludo@Oulanl ~]$ gpg --keyserver ksp.capitoledulibre.org --send-key 6B17EA1E
+gpg: sending key 6B17EA1E to hkp server ksp.capitoledulibre.org
+[ludo@Oulanl ~]$
+```
 en prenant soin d'envoyer votre clef et pas la mienne (6B17EA1E).
 
-On peut s'inscrire Jusqu'au Mercredi 16 novembre 2016. Cela donne un peut de temps aux administrateurs pour générer les fichiers nécessaire à la KSP. 
+On peut s'inscrire jusqu'au mercredi 16 novembre 2016. Cela donne un peu de temps aux administrateurs pour générer les fichiers nécessaires à la KSP.
 
 ### Pour ceux qui n'ont pas de clef
 
-Le mardi 15 novembre à 18:30 au centre culturel Bellegarde aura lieu un atelier pour créé une clef et avec prise en main de gpg.
+Le mardi 15 novembre à 18:30 au centre culturel Bellegarde aura lieu un atelier pour créer une clef et avec prise en main de gpg.
 
 ## Avant de venir au Capitole du Libre
 
-Se connecter à [http://ksp.capitoledulibre.org/files] pour y téléchargé le fichiers des particpant et de leur clefs.  Il faudra vérifier le fichier en utilisant les commandes XXX XXX et les noter dans ledit fichiers. Après on peut soit l'imprimer , soit venir avce sont portable et assez de temps de batterie (il faut compter 1 heure par 100 participant).
+Se connecter à [http://ksp.capitoledulibre.org/files] pour y télécharger le fichiers des participants et de leurs clefs.  Il faudra vérifier le fichier en utilisant les commandes XXX XXX et les noter dans ledit fichiers. Après on peut soit l'imprimer, soit venir avec sont portable et assez de temps de batterie (il faut compter 1 heure par 100 participants).
 
 ## Le jour même 
 
