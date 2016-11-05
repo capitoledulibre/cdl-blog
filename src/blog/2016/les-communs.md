@@ -24,11 +24,11 @@ Bien des exemples seront développés dans d'autres thématiques, tels que [l'in
 
 La question de la rémunération se pose souvent lorsqu'il s'agit de contribuer à un projet libre et par extension à un commun, d'en *prendre soin*. Au Capitole du Libre des pistes seront évoquées. Les **Licences à réciprocité** présentées par **Lionel Maurel** de SavoirsCom1 (19/11 – 15h) sont une piste intéressante permettant une gestion plus fine des droits que les Creative Commons par exemple.
 
-Il sera question également de **Liberapay** (dim 20/11 10h30), un outil libre qui permet de contribuer à des projets ou rémunérer des commoners à l'aide de dons récurrents. Enfin le Capitole du Libre accueille cette année les **rencontres des monnaies libres**, du moins la partie grand public puisqu'elles débutent dès le 17 mai au Quai des Savoirs.
+Il sera question également de **Liberapay** (dim 20/11 10h30), un outil libre qui permet de contribuer à des projets ou rémunérer des commoners à l'aide de dons récurrents. Enfin le Capitole du Libre accueille cette année les [**rencontres des monnaies libres**](http://www.monnaielibreoccitane.org/rml8/), du moins la partie grand public puisqu'elles débutent dès le 17 mai au Quai des Savoirs.
 
 ![Rencontres Monnaies Libres]({filename}images/monnaie-libre-occitanie.png)
 
-Simon Sarazin animera une table ronde sur le sujet (dim 20/11 14h30), avec la participation de **Carole Fabre** pour parler de [Duniter]() et des monnaies libres, de **Andréa** pour les monnaies locales, de **Charly Coste** de [Liberapay]().
+Simon Sarazin animera une table ronde sur le sujet (dim 20/11 14h30), avec la participation de **Carole Fabre** pour parler de [Duniter](http://fr.duniter.org/presentation/) et des monnaies libres, de **Andréa Caro Gomez** pour les monnaies locales, de **Charly Coste** de [Liberapay](https://liberapay.com/).
 
 ### Entre culture libre et Communs, l'édition libre
 
@@ -44,8 +44,7 @@ En parallèle, les commoners toulousains se réuniront en [**assemblée des comm
 
 ## Retrouvez les Communs à la Médiathèque le 18 novembre
 
-Si vous partez aux champignons pendant le weekend, ne manquez pas le **vendredi 18 novembre** à 18h [la conférence à la Médiathèque José Cabanis
-“Qu'est-ce que les Communs”](http://www.bibliotheque.toulouse.fr/qu_est_ce_que_les_communs.html) par *Bernard Brunet*, avec la participation de **Framasoft**, **ArboréSign** et **SavoirsCom1**.
+Si vous partez aux champignons pendant le weekend, ne manquez pas le **vendredi 18 novembre** à 18h [la conférence à la Médiathèque José Cabanis “Qu'est-ce que les Communs”](http://www.bibliotheque.toulouse.fr/qu_est_ce_que_les_communs.html) par *Bernard Brunet*, avec la participation de **Framasoft**, **ArboréSign** et **SavoirsCom1**.
 
 ![Les Communs]({filename}images/nov_dec_2016_communs.jpg)
 
@@ -58,7 +57,7 @@ Si vous partez aux champignons pendant le weekend, ne manquez pas le **vendredi 
 * **Les licences à réciprocité : une nouvelle piste pour le développement des Communs ?** – *Lionel Maurel* – 19 novembre 2016 15:00 – 16:00
 * **Assemblée des communs** – *Emmanuelle Helly & Bernard Brunet* – 20 novembre 2016 10:30 – 12:30
 * **La BiblioDebout, un Commun au coeur d'un mouvement social** – *Lionel Maurel* – 20 novembre 2016 14:00 – 14:30
-* **Rémunérer la contribution aux communs** – *Carole Fabre*, Andréa Caro Gomez*, *Charly Coste*, animée par *Simon Sarazin* – 20 novembre 14h30 – 16h
+* **Rémunérer la contribution aux communs** – *Carole Fabre*, *Andréa Caro Gomez*, *Charly Coste*, animée par *Simon Sarazin* – 20 novembre 14h30 – 16h
 
 ### Les Communs dans les autres thématiques
 
