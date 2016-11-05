@@ -28,11 +28,7 @@ Le **mardi 8 novembre à 18:30** au centre culturel Bellegarde aura lieu un **at
 
 ## Avant de venir au Capitole du Libre
 
-<<<<<<< bfdea89d6de4bd02d8c43a0a00c3275e76ea2c32
-Se connecter à http://ksp.capitoledulibre.org/files pour y télécharger le fichier des participants et leurs clefs.  Il faudra vérifier le fichier en utilisant les commandes XXX XXX et les noter dans ledit fichiers. Après on peut soit l'imprimer, soit venir avec son portable et assez de temps de batterie (il faut compter 1 heure par 100 participants).
-=======
 Se connecter à [http://ksp.capitoledulibre.org/files] pour y télécharger le fichiers des participants et leurs clefs.  Il faudra vérifier le fichier en utilisant les commandes fournies et les noter dans ledit fichiers. Après on peut soit l'imprimer, soit venir avec son portable et assez de temps de batterie (il faut compter 1 heure par 100 participants).
->>>>>>> Fix command "XXX" with command communicated later
 
 ## Le jour même
 
