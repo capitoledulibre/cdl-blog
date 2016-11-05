@@ -47,6 +47,8 @@ En parallèle, les commoners toulousains se réuniront en [**assemblée des comm
 Si vous partez aux champignons pendant le weekend, ne manquez pas le **vendredi 18 novembre** à 18h [la conférence à la Médiathèque José Cabanis
 “Qu'est-ce que les Communs”](http://www.bibliotheque.toulouse.fr/qu_est_ce_que_les_communs.html) par *Bernard Brunet*, avec la participation de **Framasoft**, **ArboréSign** et **SavoirsCom1**.
 
+![Les Communs]({filename}images/nov_dec_2016_communs.jpg)
+
 ## Le programme en résumé
 
 ### Thématique des Communs
