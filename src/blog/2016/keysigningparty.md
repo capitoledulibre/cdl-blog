@@ -1,6 +1,5 @@
 Title: Key signing party au Capitole du Libre
 Date: 2016-11-05
-Status: draft
 Summary: Comment participer la fête de signature de clef gpg/pgp au cdl
 
 Cette année la Key signing party pour clef gpg/pgp se deroulera comme pour le [FOSDEM](http://fosdem.org). C'est à dire qu'il faudra s'inscrire à l'avance, mais que cela simplifera considérablement la partie administrative d'un tel évènement.
@@ -29,7 +28,11 @@ Le **mardi 8 novembre à 18:30** au centre culturel Bellegarde aura lieu un **at
 
 ## Avant de venir au Capitole du Libre
 
+<<<<<<< bfdea89d6de4bd02d8c43a0a00c3275e76ea2c32
 Se connecter à http://ksp.capitoledulibre.org/files pour y télécharger le fichier des participants et leurs clefs.  Il faudra vérifier le fichier en utilisant les commandes XXX XXX et les noter dans ledit fichiers. Après on peut soit l'imprimer, soit venir avec son portable et assez de temps de batterie (il faut compter 1 heure par 100 participants).
+=======
+Se connecter à [http://ksp.capitoledulibre.org/files] pour y télécharger le fichiers des participants et leurs clefs.  Il faudra vérifier le fichier en utilisant les commandes fournies et les noter dans ledit fichiers. Après on peut soit l'imprimer, soit venir avec son portable et assez de temps de batterie (il faut compter 1 heure par 100 participants).
+>>>>>>> Fix command "XXX" with command communicated later
 
 ## Le jour même
 
