@@ -27,13 +27,6 @@ autour du thème de la **surveillance du Web**.
 *Christopher Talib* de la **quadrature du net**, *Benjamin Bayart* de
 **FFDN** et *Pierre-Yves Gosset* de **Framasoft**.
 
-### Ateliers du 20 novembre
-
-Le **dimanche 24 novembre**, des [ateliers](/programme/ateliers.html)
-sont proposés aux participants dans les mêmes thèmes, pour découvrir ou
-approfondir certains aspects. Ces ateliers sont gratuits, une
-inscription sera demandée pour des raisons de logistique.
-
 ## Village associatif, imprimantes 3D, Install party
 
 
