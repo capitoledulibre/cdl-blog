@@ -5,7 +5,7 @@ Summary: Comment participer la fête de signature de clef gpg/pgp au cdl
 
 Cette année la Key signing party pour clef gpg/pgp se deroulera comme pour le [Fosdem](http://fosdem.org). C'est à dire qu'il faudra s'inscrire à l'avance, mais que cela simplifera considérablement la partie administrative d'un tell évènement.
 
-La ksp aura lieu le dimanche 20 Novembre 2016 à 12:00; Rdv dans le hall principal près de l'entrée.
+La ksp aura lieu le dimanche 20 Novembre 2016 à 12:00; Rdv dans l'amphithéatre B0 B00.
 
 La méthode du fosdem permet de se débarasser des empreintes de clef individuelles et donc de la possibilité de perdre les petit bout de papier.
 
@@ -19,11 +19,15 @@ en prenant soin d'envoyer votre clef et pas la mienne (6B17EA1E).
 
 On peut s'inscrire Jusqu'au Mercredi 16 novembre 2016. Cela donne un peut de temps aux administrateurs pour générer les fichiers nécessaire à la KSP. 
 
-## Avant de venir au Cdl
+### Pour ceux qui n'ont pas de clef
+
+Le mardi 15 novembre à 18:30 au centre culturel Bellegarde aura lieu un atelier pour créé une clef et avec prise en main de gpg.
+
+## Avant de venir au Capitole du Libre
 
 Se connecter à [http://ksp.capitoledulibre.org/files] pour y téléchargé le fichiers des particpant et de leur clefs.  Il faudra vérifier le fichier en utilisant les commandes XXX XXX et les noter dans ledit fichiers. Après on peut soit l'imprimer , soit venir avce sont portable et assez de temps de batterie (il faut compter 1 heure par 100 participant).
 
 ## Le jour même 
 
-Venir à 12:00 dans le hall principale chercher un gars avec un T-shirt mozilla qui ressemble à [ça](https://flic.kr/p/6PutuF). Nous lirons les CRC des fichiers et vous pourrez vérfifer que vos fichiers sont les bons. Puis nous expliquerons la marche à suivre pour la suite. Merci de venir avec un justificatif d'identité officiel.
+Venir à 12:00 dans l'amphithéatre B00. Nous lirons les CRC des fichiers et vous pourrez vérfifer que vos fichiers sont les bons. Puis nous expliquerons la marche à suivre pour la suite. Merci de venir avec un justificatif d'identité officiel.
 
