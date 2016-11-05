@@ -3,11 +3,11 @@ Date: 2016-11-05
 Status: draft
 Summary: Comment participer la fête de signature de clef gpg/pgp au cdl
 
-Cette année la Key signing party pour clef gpg/pgp se deroulera comme pour le [Fosdem](http://fosdem.org). C'est à dire qu'il faudra s'inscrire à l'avance, mais que cela simplifera considérablement la partie administrative d'un tell évènement.
+Cette année la Key signing party pour clef gpg/pgp se deroulera comme pour le [FOSDEM](http://fosdem.org). C'est à dire qu'il faudra s'inscrire à l'avance, mais que cela simplifera considérablement la partie administrative d'un tel évènement.
 
-La ksp aura lieu le dimanche 20 Novembre 2016 à 12:00; Rdv dans l'amphithéatre B0 B00.
+La ksp aura lieu le dimanche 20 Novembre 2016 à 12:00; Rdv dans l'amphithéatre  B00.
 
-La méthode du fosdem permet de se débarasser des empreintes de clef individuelles et donc de la possibilité de perdre les petit bout de papier.
+La méthode du FOSDEM permet de se débarasser des empreintes de clef individuelles et donc de la possibilité de perdre les petit bout de papier.
 
 ## Inscription
 
