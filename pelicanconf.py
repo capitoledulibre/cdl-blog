@@ -37,7 +37,7 @@ ARTICLE_LANG_URL = '{date:%Y}/{date:%m}-{date:%d}-{slug}-{lang}.html'
 ARTICLE_LANG_SAVE_AS = '{date:%Y}/{date:%m}-{date:%d}-{slug}-{lang}.html'
 
 # static paths will be copied under the same name
-STATIC_PATHS = ["photos",]
+STATIC_PATHS = ["blog", "photos",]
 
 # Menus
 DISPLAY_PAGES_ON_MENU = False
