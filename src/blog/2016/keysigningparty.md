@@ -24,7 +24,9 @@ On peut s'inscrire jusqu'au mercredi 16 novembre 2016. Cela donne un peu de temp
 
 ### Pour ceux qui n'ont pas de clef
 
-Le **mardi 8 novembre à 18:30** au centre culturel Bellegarde aura lieu un **atelier pour créer une clef et prendre en main gpg**.
+Le **mardi 8 novembre à 18:30** au [centre culturel Bellegarde](http://bellegarde.toulouse.fr/) aura lieu un
+**[atelier](http://blog.capitoledulibre.org/2016/11-07-introduction-a-la-cryptographie-avant-le-capitole-du-libre.html)
+pour créer une clef et prendre en main gpg**.
 
 ## Avant de venir au Capitole du Libre
 
