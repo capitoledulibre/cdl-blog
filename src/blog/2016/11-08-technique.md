@@ -1,6 +1,5 @@
-Title: Les sujets techniques au Capitole du Libre, du général au plus pointu 
-Date: 2016-10-28
-Status: draft
+Title: Les sujets techniques au Capitole du Libre, du général au plus pointu
+Date: 2016-11-08
 Summary: Les sujets techniques transverses et généraux au Capitole du Libre, les 19 et 20 novembre prochains à Toulouse.
 
 Peu de technologies permettent à une personne, parfois au cours d'une simple session de travail, parfois sans même y songer, de passer d'un rôle d'utilisateur à celui de technicien. Il s'agit d'une conséquence des principes qui fondent le mouvement du logiciel libre. Et l'intérêt de rencontres telles que le Capitole du Libre est, entre autres, de rassembler autour de sujets communs aussi bien des techniciens expérimentés que des novices.
@@ -17,7 +16,7 @@ Du côté de l'outillage et de la sécurité, le développeur de logiciels libre
 
 Le langage Rust est un nouveau langage généraliste performant qui possède des caractéristiques techniques très originales. Deux conférences et un atelier seront l'occasion d'en apprendre plus.
 
-Le langage Go est lui plus spécialisé en particulier dans le domaine du parallélisme et, entres autres conséquences, des applications réseau qui en ont besoin. Une conférence d'introduction permettra de le découvrir. 
+Le langage Go est lui plus spécialisé en particulier dans le domaine du parallélisme et, entres autres conséquences, des applications réseau qui en ont besoin. Une conférence d'introduction permettra de le découvrir.
 
 ## Bibliothèques et outils, sécurité
 
