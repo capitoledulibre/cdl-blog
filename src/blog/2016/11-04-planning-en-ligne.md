@@ -11,7 +11,7 @@ Le [planning des conférences du Capitole du Libre](https://2016.capitoledulibre
 
 Cette année, Akademy-FR devient une thématique plus large, C++ / Qt. Nous retrouvons deux nouvelles thématiques, **Les Communs** et **Communautés du Libre**.
 
-## 8ième Rencontre des Monnaies Libres
+## 8e Rencontre des Monnaies Libres
 
 Cette année le Capitole du Libre a l'honneur d'héberger la partie grand public des [8èmes Rencontre des Monnaies Libres](http://www.monnaielibreoccitane.org/rml8/) organisé par [Monnaie Libre Occitane](http://www.monnaielibreoccitane.org/), pour découvrir les monnaies libres, de jouer au jeu Ğeconomicus pour comprendre les concepts, et installer les logiciels de monnaie libre (libres eux aussi bien sûr).
 

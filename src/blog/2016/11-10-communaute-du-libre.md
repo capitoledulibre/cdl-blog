@@ -1,5 +1,5 @@
 Title: La Communauté du Libre au Capitole du Libre
-Date: 2016-11-09
+Date: 2016-11-10
 Summary: Le logiciel libre c'est aussi les femmes et les hommes qui y contribuent.
 Tags: Haiku, Free Software, OpenSource, LinuxFR, 0 A.D., communautés
 

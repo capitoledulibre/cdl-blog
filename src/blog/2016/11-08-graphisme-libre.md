@@ -1,6 +1,5 @@
 Title: Libérez l'artiste en vous avec le programme Graphisme et Multimédia du Capitole du libre
-Date: 2016-11-05
-Status: draft
+Date: 2016-11-08
 Summary: Présentation des conférences et atelier dédiés au Multimédia et au graphisme libre au Capitole du Libre, les 19 et 20 novembre prochains à Toulouse.
 
 Comme chaque année, le programme dédié au graphisme et à la création multimédia est bien chargé. De nombreuses

@@ -1,5 +1,5 @@
 Title: Les sujets techniques au Capitole du Libre, du général au plus pointu
-Date: 2016-11-08
+Date: 2016-11-09
 Summary: Les sujets techniques transverses et généraux au Capitole du Libre, les 19 et 20 novembre prochains à Toulouse.
 
 Peu de technologies permettent à une personne, parfois au cours d'une simple session de travail, parfois sans même y songer, de passer d'un rôle d'utilisateur à celui de technicien. Il s'agit d'une conséquence des principes qui fondent le mouvement du logiciel libre. Et l'intérêt de rencontres telles que le Capitole du Libre est, entre autres, de rassembler autour de sujets communs aussi bien des techniciens expérimentés que des novices.
