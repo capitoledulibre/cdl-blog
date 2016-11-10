@@ -5,7 +5,7 @@ Summary: Les Communs ont une thématique dédiée au Capitole du Libre les 19 et
 Avez vous déjà entendu parler de la notion de **[“communs”](http://lescommuns.org/)** ?
 Peut-être évoque-t-elle d’abord pour vous les ressources naturelles comme la planète, l’eau, l’air que nous respirons, les forêts tropicales, la biodiversité…
 
-[![Les Communs]({filename}images/commun-portail.png)](http://lescommuns.org/)
+[![Les Communs](/blog/2016/images/commun-portail.png)](http://lescommuns.org/)
 
 Pourtant cela va plus loin : les “communs” désignent l’activité des **communautés** qui s’organisent et se régulent pour protéger et faire fructifier des **ressources matérielles ou immatérielles**, en marge des régimes de propriété publique ou privée, selon des **règles de gouvernances** définies par elles-mêmes. Les travaux d’**[Elinor Ostrom](https://fr.wikipedia.org/wiki/Elinor_Ostrom)**, première femme à avoir obtenu le <del>Nobel d’économie</del> prix de la banque de Suède en hommage à Nobel en 2009, ont démontré que les “communs” pouvaient constituer une alternative crédible et durable aux dysfonctionnements actuels de nos économies et de nos démocraties.
 
@@ -26,7 +26,7 @@ La question de la rémunération se pose souvent lorsqu'il s'agit de contribuer 
 
 Il sera question également de **Liberapay** (dim 20/11 10h30), un outil libre qui permet de contribuer à des projets ou rémunérer des commoners à l'aide de dons récurrents. Enfin le Capitole du Libre accueille cette année les [**rencontres des monnaies libres**](http://www.monnaielibreoccitane.org/rml8/), du moins la partie grand public puisqu'elles débutent dès le 17 mai au Quai des Savoirs.
 
-![Rencontres Monnaies Libres]({filename}images/monnaie-libre-occitanie.png)
+![Rencontres Monnaies Libres](/blog/2016/images/monnaie-libre-occitanie.png)
 
 Simon Sarazin animera une table ronde sur le sujet (dim 20/11 14h30), avec la participation de **Carole Fabre** pour parler de [Duniter](http://fr.duniter.org/presentation/) et des monnaies libres, de **Andréa Caro Gomez** pour les monnaies locales, de **Charly Coste** de [Liberapay](https://liberapay.com/).
 
@@ -34,7 +34,7 @@ Simon Sarazin animera une table ronde sur le sujet (dim 20/11 14h30), avec la pa
 
 **Samedi 19/11 à 16h30** aura lieu une **Table ronde sur l'édition libre**, qui couvre toute la chaîne du livre, de l'auteur au libraire, en passant par l'éditeur. Cette table ronde sera l'occasion pour le public de prendre la parole sur ce sujet. Y participeront **Sandra Guigonis**, pour [Framabook]() ; **Magali Garnero**, libraire et membre du CA de l'[April]() ; **Neil Jomunsi**, auteur et fondateur de [**Walrus**, maison d'édition indépendante](http://walrus-books.com/) ; **David Revoy**, illustrateur et auteur de [**Pepper&Carrot**, bande dessinée publiée en CC-By](http://peppercarrot.com/).
 
-![Pepper&Carrot]({filename}images/pepper-carrot-cover_by-david-revoy.jpg)
+![Pepper&Carrot](/blog/2016/images/pepper-carrot-cover_by-david-revoy.jpg)
 
 ### Gouvernance des communautés
 
@@ -46,7 +46,7 @@ En parallèle, les commoners toulousains se réuniront en [**assemblée des comm
 
 Si vous partez aux champignons pendant le weekend, ne manquez pas le **vendredi 18 novembre** à 18h [la conférence à la Médiathèque José Cabanis “Qu'est-ce que les Communs”](http://www.bibliotheque.toulouse.fr/qu_est_ce_que_les_communs.html) par *Bernard Brunet*, avec la participation de **Framasoft**, **ArboréSign** et **SavoirsCom1**.
 
-![Les Communs]({filename}images/nov_dec_2016_communs.jpg)
+![Les Communs](/blog/2016/images/nov_dec_2016_communs.jpg)
 
 ## Le programme en résumé
 

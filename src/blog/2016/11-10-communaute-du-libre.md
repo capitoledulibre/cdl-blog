@@ -35,7 +35,7 @@ techniques, législatives (modération), du changement des usages des
 lecteurs et l’évolution des thématiques du site *(sam 19/11 – 11h30 en
 B00)*.
 
-![LinuxFr]({filename}images/200px-Linuxfr.png) ![Framasoft]({filename}images/framasoft.png)
+![LinuxFr](/blog/2016/images/200px-Linuxfr.png) ![Framasoft](/blog/2016/images/framasoft.png)
 
 **Relf**, avec son intervention « le syndrôme de l’imposteur », nous
 explique comment **ne pas douter de ses capacités et reprendre le
@@ -58,7 +58,7 @@ multiplateforme de type UNIX. **V.Gross** présente « **utiliser ou
 contribuer, osez [OpenBSD](https://www.openbsd.org/) !** » *(dim 20/11 12h
 salle C002)*.
 
-![La brique Internet]({filename}images/brique.png) ![Haiku]({filename}images/Haiku.jpg)
+![La brique Internet](/blog/2016/images/brique.png) ![Haiku](/blog/2016/images/Haiku.jpg)
 
 ### Des jeux vidéos libres
 
@@ -70,7 +70,7 @@ Un autre jeu vidéo est animé par une communauté dynamique,
 **[Khaganat](https://khaganat.net/), un MMORPG 100% libre, mais pas que !**
 *(dim 20/11 14h)* est présenté par *Zatalyz* dans la thématique *Culture Libre*.
 
-![0 A.D.]({filename}images/AD0-site.png) ![Khaganat]({filename}images/khaganat-site.png)
+![0 A.D.](/blog/2016/images/AD0-site.png) ![Khaganat](/blog/2016/images/khaganat-site.png)
 
 
 ## Communiquer et convaincre du bon usage du logiciel libre
