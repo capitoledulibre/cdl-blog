@@ -17,7 +17,7 @@ L'idée de **remixer des œuvres du Musées**, appartenant à tout un chacun pui
 
 [Zeste de Savoirs](https://zestedesavoir.com/) *(sam 19/11 15h30)* a pour objectif de partager la connaissance au travers de tutoriels et autres ressources pédagogiques de préférence sous licences libres.
 
-Et quel meilleur moyen qu'une bibliobox pour diffuser des œuvres sur support numérique ? **Christophe Rhein** de la Canopé viendra expliquer comment la mettre en place *(dim 20/11 11h30)*.
+Et quel meilleur moyen qu'une **bibliobox pour diffuser des œuvres sur support numérique** ? **Christophe Rhein** de la Canopé viendra expliquer comment la mettre en place *(dim 20/11 11h30)*.
 
 ## L'Édition, un enjeu crucial
 
