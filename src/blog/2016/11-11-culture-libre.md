@@ -3,7 +3,7 @@ Date: 2016-11-11
 Summary: Il n'y a pas que les logiciels qui sont libres : l'art, le cinéma, la littérature, la BD aussi peuvent être libérées
 
 
-**Le numérique a bouleversé le monde de la culture**, brouillant les limites entre création, diffusion et usages, favorisant le *remix* (étudié par [Éric Maigret](https://fr.wikipedia.org/wiki/%C3%89ric_Mac%C3%A9)) et le *braconnage culturel*, (décrit par [Michel De Certeau](https://fr.wikipedia.org/wiki/Michel_de_Certeau)), obligeant les industries culturelles à revoir leur modèle économique, jusqu'à parfois pousser à des décisions à l'encontre des usagers.
+**Le numérique a bouleversé le monde de la culture**, brouillant les limites entre création, diffusion et usages, favorisant le *remix* (étudié par [Éric Maigret](https://fr.wikipedia.org/wiki/%C3%89ric_Mac%C3%A9)) et le *braconnage culturel*, (décrit par [Michel De Certeau](https://fr.wikipedia.org/wiki/Michel_de_Certeau)), obligeant les industries culturelles à revoir leur modèle économique, jusqu'à parfois les pousser à des décisions à l'encontre des usagers.
 
 Pourtant **les licences libres n'ont pas vocation à remettre en cause le [droit d'auteur](https://fr.wikipedia.org/wiki/Droit_d%27auteur)** initié par [Beaumarchais](https://fr.wikipedia.org/wiki/Pierre-Augustin_Caron_de_Beaumarchais) fin du 18e siècle, seulement de donner un certain nombre de libertés à ceux qui réutilisent ces œuvres. Une seule chose ne change pas, les auteurs et artistes peinent à vivre de leur métier et de leur art.
 
@@ -15,7 +15,7 @@ La [signothèque libre pour la LSF](http://signotheque.arboresign.org/) – Lang
 
 L'idée de **remixer des œuvres du Musées**, appartenant à tout un chacun puisque dans le domaine public, c'est le projet [Museomix](http://www.museomix.org/) *(sam 19/11 15h)*: une communauté + des musées + 3 jours de marathon créatif. À noter que **Museomix 2016, c'est le weekend du 11-13 novembre au musée St Raymond**.
 
-[Zeste de Savoirs](https://zestedesavoir.com/) *(sam 19/11 15h30)* a pour objectif de partager la connaissance au travers de tutoriels et autres ressources pédagogiques de préférence sous licences libres.
+[Zeste de Savoirs](https://zestedesavoir.com/) *(sam 19/11 15h30)* a pour objectif de **partager la connaissance** au travers de tutoriels et autres **ressources pédagogiques**, de préférence sous licences libres.
 
 Et quel meilleur moyen qu'une **bibliobox pour diffuser des œuvres sur support numérique** ? **Christophe Rhein** de la Canopé viendra expliquer comment la mettre en place *(dim 20/11 11h30)*.
 
