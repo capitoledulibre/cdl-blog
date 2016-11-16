@@ -15,14 +15,19 @@ Un peu plus différente mais tout aussi intéressante, une conférence au plus p
 
 Côté "software", les différents sujets qui seront présentés sont très tournés communication et objets connectés : **Ofono**, une stack téléphonique libre vous permettra de gérer un modem ; le **Bluetooth Low Energy**, au coeur de la plupart des récents objets connectés (avec un retour sur l'aspect sécurité/protection de la vie privée!) ; un peu de système d'exploitation alternatif avec **Asteroid OS** pour libérer vos poignets ! Et pour finir, du réseau sur la célèbre Raspberry Pi avec **Contiki** : un OS open source permettant d'utiliser le protocole 6LowPAN avec des objets restreints en ressource tels que des capteurs.
 
-## Thématique "embarqué" : le programme des conférences
+## Thématique "embarqué" : le programme des conférences <small>(salle A203)</small>
 
-* **Hardware : préservation du patrimoine numérique** – *Grégory Estrade* - Samedi 19 novembre 2016 11:30 – 12:30
-* **Ofono : Une stack téléphonique libre pour l'embarqué** – *Clément Viel* - Samedi 19 novembre 2016 14:00 – 15:00
-* **Bluetooth Low Energy** – *Maxime Chevallier* - Samedi 19 novembre 2016 15:00 – 16:00
-* **Un nouvel SBC à tout faire: le C.H.I.P.** – *Maxime Ripard* - Samedi 19 novembre 2016 16:30 – 17:30
-* **Asteroid OS : la liberté sur ovtre poignet** – *Florent Revest* - Samedi 19 novembre 2016 17:30 – 18:00
-* **Bitbox : la console de jeux libre DIY** – *Adrien Destugues & makapuf* - Dimanche 20 novembre 2016 10:30 – 11:30
-* **Pyra, le successeur d'Open Pandora** – *Frédéric Tournier* - Dimanche 20 novembre 2016 11:30 – 12:30
-* **Contiki et 6LowPAN pour des réseaux de capteurs sans fil ouverts** – *Nicolas Aguirre* - Dimanche 20 novembre 2016 14:00 – 15:00
-* **Mooltipass, coffre fort numérique pour vos mots de passe** – *Raoul Hecky* - Dimanche 20 novembre 2016 15:00 – 16:00
+### Samedi 19 novembre
+
+* [**Hardware: préservation du patrimoine numérique.**](https://2016.capitoledulibre.org/programme.html#hardware-preservation-du-patrimoine-numerique) – *Grégory Estrade* – 11:30 – 12:30
+* [**Ofono : Une stack téléphonique libre pour l'embarqué**](https://2016.capitoledulibre.org/programme.html#ofono-une-stack-telephonique-libre-pour-lembarque) – *Clément Viel* – 14:00 – 15:00
+* [**Bluetooth Low Energy**](https://2016.capitoledulibre.org/programme.html#bluetooth-low-energy) – *Maxime Chevallier* – 15:00 – 16:00
+* [**Un nouvel SBC a tout faire: le CHIP**](https://2016.capitoledulibre.org/programme.html#un-nouvel-sbc-a-tout-faire-le-chip) – *Maxime Ripard* – 16:30 – 17:30
+* [**AsteroidOS: la liberté sur votre poignet**](https://2016.capitoledulibre.org/programme.html#asteroidos-la-liberte-sur-votre-poignet) – *Florent Revest* – 17:30 – 18:00
+
+### Dimanche 20 novembre
+
+* [**Bitbox : la console de jeux libre DIY**](https://2016.capitoledulibre.org/programme.html#bitbox-quoi-de-neuf) – *Adrien Destugues & makapuf* – 10:30 – 11:30
+* [**Pyra, le successeur d'Open Pandora**](https://2016.capitoledulibre.org/programme.html#pyra-le-successeur-dopen-pandora) – *Frédéric Tournier* – 11:30 – 12:30
+* [**Contiki et 6LowPAN pour des réseaux de capteurs sans fil ouverts**](https://2016.capitoledulibre.org/programme.html#contiki-et-6lowpan-pour-des-reseaux-de-capteurs-sa) – *Nicolas Aguirre* – 14:00 – 15:00
+* [**Mooltipass, coffre fort numérique pour vos mots de passe**](https://2016.capitoledulibre.org/programme.html#mooltipass-coffre-fort-numerique-pour-vos-mots-de-) – *Raoul Hecky* – 15:00 – 16:00
