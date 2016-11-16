@@ -7,6 +7,8 @@ Summary: Il n'y a pas que les logiciels qui sont libres : l'art, le cinéma, la 
 
 Pourtant **les licences libres n'ont pas vocation à remettre en cause le [droit d'auteur](https://fr.wikipedia.org/wiki/Droit_d%27auteur)** initié par [Beaumarchais](https://fr.wikipedia.org/wiki/Pierre-Augustin_Caron_de_Beaumarchais) fin du 18e siècle, seulement de donner un certain nombre de libertés à ceux qui réutilisent ces œuvres. Une seule chose ne change pas, les auteurs et artistes peinent à vivre de leur métier et de leur art.
 
+**Au Capitole du libre** dans la thématique **culture libre**, nous vous proposons d'explorer les projets culturels et de création libres, promouvant le partage, la réutilisation, mais tout en continuant à poser la question de la rémunération. C'est tout le weekend à l'ENSEEIHT, amphi A002.
+
 ## Culture pour tous, culture par tous
 
 La création glisse vers la **co-création** en témoignent plusieurs projets artistiques, culturels ou de diffusion de la connaissance, pour l'intérêt général ou simplement le plaisir de créer ensemble.
