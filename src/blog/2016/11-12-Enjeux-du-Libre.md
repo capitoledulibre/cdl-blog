@@ -60,7 +60,7 @@ Salle B00
 * De même pour la culture du Libre qui s'est développée à partir de ces enjeux, plusieurs conférences discuteront de ces problématiques au Capitole du Libre : [La culture Libre](http://blog.capitoledulibre.org/2016/11-11-la-culture-libre.html)
 
 ### Articles
-* Le [Le manifeste GNU](https://www.gnu.org/gnu/manifesto.fr.html ) est un texte publié par Richard Stallman en 1985 décrivant les méthodes de participation ainsi que la philosophie du Logiciel Libre
+* [Le manifeste GNU](https://www.gnu.org/gnu/manifesto.fr.html ) est un texte publié par Richard Stallman en 1985 décrivant les méthodes de participation ainsi que la philosophie du Logiciel Libre
 * [En quoi l'open source perd de vue l'éthique du logiciel libre](http://www.gnu.org/philosophy/open-source-misses-the-point.fr.html )
   
 ### Association
