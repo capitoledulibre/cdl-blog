@@ -1,4 +1,4 @@
-Title: C++ / Qt au Capitole du libre au Capitole du Libre
+Title: C++ / Qt au Capitole du Libre
 Date: 2016-11-16
 Summary: Venez en savoir plus sur le développement en C++ et Qt
 
