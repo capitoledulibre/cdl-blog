@@ -54,12 +54,15 @@ Salle B00
 
 
 ## Pour aller plus loin
-* Au Capitole du Libre
-  * Le Logiciel Libre ne peut être sans ses communautés, une track dédié à ces questions sera présente au Capitole du Libre : [Les communautés du Libre](http://blog.capitoledulibre.org/2016/11-10-la-communaute-du-libre-au-capitole-du-libre.html)
-  * De même pour la culture du Libre qui s'est développée à partir de ces enjeux, plusieurs conférences discuteront de ces problématiques au Capitole du Libre : [La culture Libre](http://blog.capitoledulibre.org/2016/11-11-la-culture-libre.html)
-* Articles
-  * Le [Le manifeste GNU](https://www.gnu.org/gnu/manifesto.fr.html ) est un texte publié par Richard Stallman en 1985 décrivant les méthodes de participation ainsi que la philosophie du Logiciel Libre
-  * [En quoi l'open source perd de vue l'éthique du logiciel libre](http://www.gnu.org/philosophy/open-source-misses-the-point.fr.html )
-* Association
-  * [La Quadrature du Net](https://www.laquadrature.net/) : association de défense des droits et des libertés de tous à l'ère du numérique.
+
+### Au Capitole du Libre
+* Le Logiciel Libre ne peut être sans ses communautés, une track dédié à ces questions sera présente au Capitole du Libre : [Les communautés du Libre](http://blog.capitoledulibre.org/2016/11-10-la-communaute-du-libre-au-capitole-du-libre.html)
+* De même pour la culture du Libre qui s'est développée à partir de ces enjeux, plusieurs conférences discuteront de ces problématiques au Capitole du Libre : [La culture Libre](http://blog.capitoledulibre.org/2016/11-11-la-culture-libre.html)
+
+### Articles
+* Le [Le manifeste GNU](https://www.gnu.org/gnu/manifesto.fr.html ) est un texte publié par Richard Stallman en 1985 décrivant les méthodes de participation ainsi que la philosophie du Logiciel Libre
+* [En quoi l'open source perd de vue l'éthique du logiciel libre](http://www.gnu.org/philosophy/open-source-misses-the-point.fr.html )
+  
+### Association
+* [La Quadrature du Net](https://www.laquadrature.net/) : association de défense des droits et des libertés de tous à l'ère du numérique.
 
