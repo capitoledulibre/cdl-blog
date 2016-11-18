@@ -10,7 +10,7 @@ Vous êtes développeur, et avez une idée d'application Web pour <del>devenir r
 
 Venez découvrir des outils *libres* pour ['dessiner' votre site](https://2016.capitoledulibre.org/programme.html#realiser-un-wireframe-avec-inkscape), ouvrez vous à de nouvelles [méthodes de désign](https://2016.capitoledulibre.org/programme.html#open-design-des-initiatives-et-des-pistes-de-refle).
 
-Puis il sera temps de mêttre les mains dans le cambouis, en [libérant votre backend](https://2016.capitoledulibre.org/programme.html#kinto-une-alternative-libre-a-parse-et-firebase), avant de réaliser votre [front-end](https://2016.capitoledulibre.org/programme.html#decouvrez-haxe-le-graal-du-developpeur-touche-a-to) avec des techniques [modernes](https://2016.capitoledulibre.org/programme.html#functional-webapps-whats-next) (et même sans [Javascript](https://2016.capitoledulibre.org/programme.html#beyond-javascript) !)
+Puis il sera temps de mettre les mains dans le cambouis, en [libérant votre backend](https://2016.capitoledulibre.org/programme.html#kinto-une-alternative-libre-a-parse-et-firebase), avant de réaliser votre [front-end](https://2016.capitoledulibre.org/programme.html#decouvrez-haxe-le-graal-du-developpeur-touche-a-to) avec des techniques [modernes](https://2016.capitoledulibre.org/programme.html#functional-webapps-whats-next) (et même sans [Javascript](https://2016.capitoledulibre.org/programme.html#beyond-javascript) !)
 
 ## Un atelier
 
