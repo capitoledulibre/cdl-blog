@@ -30,7 +30,11 @@ pour créer une clef et prendre en main gpg**.
 
 ## Avant de venir au Capitole du Libre
 
-Se connecter à [http://ksp.capitoledulibre.org/files] pour y télécharger le fichiers des participants et leurs clefs.  Il faudra vérifier le fichier en utilisant les commandes fournies et les noter dans ledit fichiers. Après on peut soit l'imprimer, soit venir avec son portable et assez de temps de batterie (il faut compter 1 heure par 100 participants).
+Télécharger [le fichiers des participants et leurs clefs](http://ksp.capitoledulibre.org/ksp-cdl-2016.txt).  Il faudra vérifier le fichier en utilisant les commandes fournies et les noter dans ledit fichiers. Après on peut soit l'imprimer, soit venir avec son portable et assez de temps de batterie (il faut compter 1 heure par 100 participants).
+
+Si votre clef n’est pas dans ce fichier, vous pouvez tout de même vérifier les clefs des autres participants.
+Cependant, pour qu’ils vérifient la votre, il vous faudra venir avec suffisament de  bouts de papier où sera imprimé la
+sortie de `gpg --fingerprint <votre key-ID>`.
 
 ## Le jour même
 
